@@ -64,4 +64,4 @@ def UNET (input_shape=(512,512,1),last_activation='sigmoid'):
     outputs = Conv2D(1,(1,1), activation = last_activation, padding = 'same', kernel_initializer = 'he_normal')(conv22)
     new_model = Model(inputs = inputs, outputs = outputs)
     
-    return model
+    return new_model
