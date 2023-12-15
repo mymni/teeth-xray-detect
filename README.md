@@ -4,4 +4,4 @@ S brute force image processing approach is also explored, involving techniques s
 
 The combination of U-Net and image processing methods contributes to a robust and interpretable tooth detection system.
 
-You can run the 2 .ipynb files automatically (Google Colab environment was used to run them).
+You can run the 2 .ipynb files automatically (Google Colab environment was used to run them - with T4 GPU).
